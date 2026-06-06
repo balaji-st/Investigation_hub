@@ -1,2 +1,2 @@
-# Investigation_hub
-Internal support tool for the L1 team to investigate and resolve client tickets faster across CRM and Job Distribution.
+A lightweight internal tool that helps support engineers investigate client issues, generate queries, and validate configurations — reducing manual effort and resolution time.
+
